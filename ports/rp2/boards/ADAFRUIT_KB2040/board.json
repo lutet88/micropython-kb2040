@@ -1,0 +1,20 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Breadboard Friendly",
+        "USB-C",
+        "RGB LED",
+        "SPI Flash"
+    ],
+    "images": [
+        "4888-05.jpg"
+    ],
+    "mcu": "rp2040",
+    "product": "KB2040",
+    "thumbnail": "",
+    "url": "https://www.adafruit.com/product/4888",
+    "vendor": "Adafruit"
+}
